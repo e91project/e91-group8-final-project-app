@@ -23,12 +23,6 @@ Curl Test
 curl localhost:8080
 ```
 
-HTML Parser Test
-
-```
-export TEST_HOST=localhost; export TEST_PORT=8080; python3 test/test_site.py
-```
-
 Clean up
 
 ```
