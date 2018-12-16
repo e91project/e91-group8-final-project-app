@@ -34,7 +34,6 @@ TEAM_MEMBERS = [
 
 class TestWebSite(unittest.TestCase):
 
-
     def test_200OK(self):
         conn = HTTPConnection(test_host, test_port)
         conn.request('GET', test_path)
