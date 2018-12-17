@@ -1,5 +1,5 @@
 # E91 GROUP 8 FINAL PROJECT APP
-Test on 12/16/2018 at 2014 EST
+Test on 12/17/2018 at 0823 EST
 
 ## Prerequisites
 
