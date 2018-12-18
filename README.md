@@ -1,5 +1,4 @@
 # E91 GROUP 8 FINAL PROJECT APP
-12/18/2018 - 0851
 
 ## Prerequisites
 
