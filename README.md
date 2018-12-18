@@ -19,7 +19,7 @@ Run
 docker run -d -p 8080:80 --name e91-app e91-final-project-app
 ```
 
-Test
+Curl Test
 ```
 curl localhost:8080
 ```
